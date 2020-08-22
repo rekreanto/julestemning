@@ -1,0 +1,49 @@
+body {
+  line-height: 1.5em;
+  background-color: hsl(0,0%,0%);
+  background-color: hsl(0,0%,92%);
+
+
+  font-family: 'Merriweather Sans';
+  color: hsla(0,0%,0%,0.8);
+}
+
+h1,h2,h3 {
+  font-family: 'Quicksand';
+
+}
+
+body {
+  counter-reset: progress;
+}
+
+.sentence {
+  padding: 1rem;
+  margin: 0rem;  
+} 
+.sentence.da { background-color: hsla(0,0%,0%,0.12); }
+.sentence.eo { background-color: hsla(0,0%,0%,0); }
+
+.eo:focus { background-color: hsla(0,0%,95%,1); }
+
+.eo:before {
+  content: counter(progress);
+  counter-increment: progress;
+  padding-right: 1rem;
+}
+
+.da-eo {
+  margin: 2rem;
+  background-color: hsla(0,0%,0%,0.12);  
+}
+
+
+.Toolbar {
+  position: fixed;
+  bottom: 0;
+  right:0;
+}
+
+.Toolbar button {
+  text-transform: uppercase;
+}
