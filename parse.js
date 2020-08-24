@@ -74,14 +74,27 @@ const html = [];
 sections.da.forEach(({number,title,sentences},i)=>{
   const tkey = mkTitleKey(i);
   const tcontent = getItem(tkey, sections.eo[i].title);
-    html.push( `\n<h2 class="section-title da">${number}. ${title}</h2>\n` );
+  html.push('<div class = "da-eo">')
     html.push( `
-      <h2 class="section-title">
+    <h2 class="section-title sentence">
+    ${sections.eo[i].number}. 
+    <span class="da" data-id="${tkey}" >${title}</span>
+    </h2>\n
+  `);
+    html.push( `
+      <h2 class="section-title sentence">
       ${sections.eo[i].number}. 
       <span class="eo" data-id="${tkey}" >${tcontent}</span>
       </h2>\n
     `);
-    html.push( `\n<h2 class="section-title eo2">${number}. ${sections.eo2[i]?sections.eo2[i].title:''}</h2>\n` );
+    html.push( `
+    <h2 class="section-title sentence">
+    ${sections.eo[i].number}. 
+    <span class="eo2" data-id="${tkey}" >${sections.eo2[i]?sections.eo2[i].title:''}</span>
+    </h2>\n
+  `);
+  html.push('</div>')
+
     
     sentences.forEach( (s,j) => { 
       const key = mkSentenceKey(i,j);

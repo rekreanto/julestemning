@@ -37,15 +37,21 @@ body {
   content: counter(progress);
   counter-increment: progress;
   padding-right: 1rem;
+  color: hsla(0,0%,0%,0.3);
+  font-weight: bold;
 }
 
 .eo:before {
   content: counter(progress);
   padding-right: 1rem;
+  color: hsla(0,0%,0%,0.3);
+  font-weight: bold;
 }
 .eo2:before {
   content: counter(progress);
   padding-right: 1rem;
+  color: hsla(0,0%,0%,0.3);
+  font-weight: bold;
 }
 
 .da-eo {
