@@ -20,15 +20,31 @@ body {
 .sentence {
   padding: 1rem;
   margin: 0rem;  
+}
+.sentence[data-empty="true"] {
+  background-color: hsla(0, 100%, 50%,0.5) !important;
 } 
-.sentence.da { background-color: hsla(0,0%,0%,0.12); }
+.sentence.da { background-color: hsla(210, 50%, 50%,0.12); }
+.sentence.da {            color: hsla(0,50%,30%,0.8); }
+
 .sentence.eo { background-color: hsla(0,0%,0%,0); }
+.sentence.eo2 { background-color: hsla(0,0%,0%,0.05); }
+.sentence.eo2 {            color: hsla(0,0%,0%,0.50); }
 
 .eo:focus { background-color: hsla(0,0%,95%,1); }
 
-.eo:before {
+.da:before {
   content: counter(progress);
   counter-increment: progress;
+  padding-right: 1rem;
+}
+
+.eo:before {
+  content: counter(progress);
+  padding-right: 1rem;
+}
+.eo2:before {
+  content: counter(progress);
   padding-right: 1rem;
 }
 
