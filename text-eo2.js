@@ -189,25 +189,19 @@ La plej multaj preferas ne bati, kaj ili nur batalas, kiam ili kredas necese far
 
 Sed tio ne estas necesa.
 
-Se ni hodiaŭ komencas ne kontraŭi ĉagrenojn, oni ricevos bonan karmon, sed oni ne kredu, ke tiam
+Se ni hodiaŭ komencas ne kontraŭi ĉagrenojn, oni ricevos bonan karmon, sed oni ne kredu, ke tiam ĉio malagrablo finos tiel, ke oni tute ne plu havos karmon.
 
-ĉio malagrablo finos tiel, ke oni tute ne plu havos karmon.
+Tion, kion oni iam semis, tio kreskas kaj revenos, tio povos esti agrabla, sed ankaŭ malagrabla.
 
-Tion, kion oni iam semis, tio kreskas kaj revenos,
-
-tio povos esti agrabla, sed ankaŭ malagrabla.
-
-Kvankam oni komencas vivi laŭ la Kristoprincipo kaj alveni la dekstran vangon, oni ne tuj estas liberigitaj de la malagrablojn.
-
-Sed se oni semas bonan semon, kaj kiam tio estas rikoltita multon estas gajnita.
-
-Tiam oni povos senti, kio estas la ĝusta.
+Kvankam oni komencas vivi laŭ la Kristoprincipo kaj alveni la dekstran vangon, oni ne tuj estas liberigitaj de la malagrablojn. Sed se oni semas bonan semon, kaj kiam tio estas rikoltita multon estas gajnita. Tiam oni povos senti, kio estas la ĝusta.
 
 Oni celu veni sur la ondolongo kun la vivo aŭ Dio mem.
 
 8. La magio de la preĝo
 
-Estas tre bona kaj dia, ke oni povas ricevi gvidadon de aliaj homoj kaj studi en lernejoj kaj universitatoj, sed tiam temas pri la morala vivformo, tiam la homoj havas grandajn eblojn, kiujn ili ofte ne konas, Ili en si havas enkonstruita la preĝon, kiu estas mistero por ili, kaj dum tio estas tia, ili ne povas vere uzi tion.
+Estas tre bona kaj dia, ke oni povas ricevi gvidadon de aliaj homoj kaj studi en lernejoj kaj universitatoj, sed tiam temas pri la morala vivformo, tiam la homoj havas grandajn eblojn, kiujn ili ofte ne konas.
+
+Ili en si havas enkonstruita la preĝon, kiu estas mistero por ili, kaj dum tio estas tia, ili ne povas vere uzi tion.
 
 La preĝo havas grandan magion, kiun oni povas uzi, kiam oni komencas vivi laŭ la ĝustan manieron kaj kreas konduton digna por la perfekta homo.
 
