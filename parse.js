@@ -3,7 +3,7 @@ const KEYS = {};
 const markEmptySentences = () => {
   const keys = Object.keys(KEYS);
   for(let k of keys){
-    const e = document.querySelector(`[data-id="${k}"`);
+    const e = document.querySelector(`.eo[data-id="${k}"`);
     if(localStorage.getItem(k)=='') e.dataset.empty = true;;
     
 
@@ -76,21 +76,21 @@ sections.da.forEach(({number,title,sentences},i)=>{
   const tcontent = getItem(tkey, sections.eo[i].title);
   html.push('<div class = "da-eo">')
     html.push( `
-    <h2 class="section-title sentence">
+    <h2 class="section-title">
     ${sections.eo[i].number}. 
-    <span class="da" data-id="${tkey}" >${title}</span>
+    <span class="sentence da">${title}</span>
     </h2>\n
   `);
     html.push( `
-      <h2 class="section-title sentence">
+      <h2 class="section-title ">
       ${sections.eo[i].number}. 
-      <span class="eo" data-id="${tkey}" >${tcontent}</span>
+      <span class="sentence eo" data-id="${tkey}" >${tcontent}</span>
       </h2>\n
     `);
     html.push( `
-    <h2 class="section-title sentence">
+    <h2 class="section-title">
     ${sections.eo[i].number}. 
-    <span class="eo2" data-id="${tkey}" >${sections.eo2[i]?sections.eo2[i].title:''}</span>
+    <span class="sentence eo2" >${sections.eo2[i]?sections.eo2[i].title:''}</span>
     </h2>\n
   `);
   html.push('</div>')
@@ -114,43 +114,42 @@ sections.da.forEach(({number,title,sentences},i)=>{
 window.addEventListener('DOMContentLoaded',()=>{
     document.getElementById('container').innerHTML = html.join('');
     let counter = 0;
+    const update = elm => {
+      const key = elm.dataset.id;
+      const content = elm.textContent;
+      localStorage.setItem(key, content);
+      elm.dataset.empty = content =='';
+    };
     document.querySelectorAll('.eo').forEach(
       (e,_i) => {
         counter++;
         e.dataset.counter = counter;
         e.contentEditable=true;
-        e.addEventListener( 'blur', e => {
-          e.target.textContent = niceQuotes(e.target.textContent);
-
-          const key = e.target.dataset.id;
-          const content = e.target.textContent;
+        e.addEventListener( 'blur', evt => {
+          evt.target.textContent = niceQuotes(evt.target.textContent);
+          const key = evt.target.dataset.id;
+          const content = evt.target.textContent;
           localStorage.setItem(key, content);
+        });
+        e.addEventListener( 'input', evt => {
+          update(evt.target);
           } 
-        )
-        e.addEventListener( 'input', e => {
-          const key = e.target.dataset.id;
-          const content = e.target.textContent;
-          localStorage.setItem(key, content);
-          e.target.dataset.empty = content =='';
-          
+        );
+      });
 
-        } 
-      );
       document.querySelectorAll('.da-eo').forEach(elm=>{
         const eo  = elm.querySelector('.eo' );
         const eo2 = elm.querySelector('.eo2');
         eo2.addEventListener('click', _e => {
-          if(true){
+          if(eo.dataset.empty=="true"){
             console.log(eo.textContent);
             eo.textContent =  eo2.textContent;
+            update(eo);
           } else {
             console.log("Please erase translation before copying.")
           }
         });
       });
-      
-      }
-    );
 
     document.getElementById('MAKE_JSON').addEventListener('click',_e=>{
       const json = mkJSON();

@@ -215,9 +215,7 @@ Nenio estas malĝusta, ĉar neniu povas fari maljustecon kaj neniu povas suferi 
 
 9. Kiel la sorto aktiviĝas
 
-Maljusteco ne povas okazi, sed tion la homoj kredas, ĉar ekzistas tiom multe, kiu aspektas kiel maljusteco,
-
-sed tio vidpunkto oni forlasu.
+Maljusteco ne povas okazi, sed tion la homoj kredas, ĉar ekzistas tiom multe, kiu aspektas kiel maljusteco, sed tio vidpunkto oni forlasu.
 
 Ĉio, kion oni travivas, de luma sorto kiel de mallumaj stadioj, estas io, kion oni mem semis.
 
@@ -343,9 +341,7 @@ La sola, kiu povas liberigi la homon kaj konduki ĝin el la ŝtalo kaj en la fre
 
 De tiu mallumo leviĝas la perfekta homo, kiu estas la plenumo de la plano de Dio por la homo: La homo en la bildo de Dio kaj simile al li!" 
 
-16. Sur la flugiloj de la intuicio.
-
-La granda naskiĝo.
+16. Sur la flugiloj de la intuicio. La granda naskiĝo.
 
 Kiu estas la signifo de esti bona kaj amema? - Jes, tio signifas, ke oni liberiĝas de la malluma fizika mondo kaj ties tradicioj kaj povos travivi la saĝo de la tuta mondo.
 
@@ -367,15 +363,15 @@ Oni komencas esti matura homo.
 
 Oni estas en mondo, kie la materio obeas la penson, oni komencas esti matura homo en la vivo mem kaj vivi la realan perfektan vivon.
 
-17. La travivado de la proksimeco de Dio.
-
-La principo de la kristnasko.
+17. La travivado de la proksimeco de Dio. La principo de la kristnasko.
 
 La homoj jam ĉi tie en la fizika mondo devos atingi la perfektan stadion, kaj la unuaj grandaj efikoj de tiu stadio estas tiu etoso de la kristnasko, kiu eniras en la homoj dum la kristnaska tempo.
 
 La kristnaska etoso, kiu estas la ĝojo pro la mobilizita amo kaj amikeco de aliaj estuloj al iu, efikas ke oni ankaŭ mem volonte donas donacojn, kaj tio estas la neceso.
 
-Se ĉiuj preferus doni anstataŭ por preni la homoj jam atingus komprenon de la Dieca plano, kiam tio estas montrata al ili en formo de la kosmaj analizoj, kiu montras la kolosan logikon kaj amon, kiu situas malantaŭ la tuto.
+Se ĉiuj preferus doni anstataŭ por preni la homoj jam atingus komprenon de la Dieca plano
+
+, kiam tio estas montrata al ili en formo de la kosmaj analizoj, kiu montras la kolosan logikon kaj amon, kiu situas malantaŭ la tuto.
 
 La principo de la Kristinfano kaj tiu logiko kaj amo, kiu troviĝas en la homoj, devos kreski, kaj kelkaj jam tiel kreskis, ke ili komencas senti la proksimecon de Dio en ĉio kaj kaj vidas, ke Dio estas en la proksimulo.
 
@@ -385,7 +381,7 @@ Ni ne povas ekzisti sen Dio, kiu uzas ĉiuj vivaj estuloj kiel sia parolilo aŭ 
 
 Do la demando estas kia organo oni volas esti por Dio, ĉu oni volas esti ekzekutisto kaj tiu, kiu svingas la skurĝon, aŭ tiu, kiu sanigas la vundojn, karesas kaj benas?
 
-    La homoj venis tiom multe, ke ili verŝajne ĉiuj preferas beni la aliajn.
+La homoj venis tiom multe, ke ili verŝajne ĉiuj preferas beni la aliajn.
 
 kaj tiu benon oni radios unu al la alia per karesaj okuloj, varmaj manpremon, donacoj ktp.
 
