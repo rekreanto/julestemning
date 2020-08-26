@@ -317,9 +317,7 @@ Se oni faras la kontraŭon, la peko kuŝas antaŭ la pordo, do venos malsanoj, m
 
 15. La Kristookazoj estas malkaŝo de la principo de la vivo.
 
-Oni klare povas vidi, ke la Kristookazoj en Betlehemo ne estas fantazie verkita.
-
-ĉar ĝi povis krei tia kolosan postefikon.
+Oni klare povas vidi, ke la Kristookazoj en Betlehemo ne estas fantazie verkita. Ĉar ĝi povis krei tia kolosan postefikon.
 
 La kaŭzo estas, ke ĝi esprimas la vivon mem, Tio estas tuta malkaŝo de la principo de la vivo mem, kion oni povas poste esplori ĉie.
 
