@@ -231,9 +231,7 @@ Se estas la mallumaj stadioj, kiujn ni devos travivi, tio venos per homoj, kiuj 
 
 Kiam oni komprenos diferenci inter la besta kaj la homa, kaj kiam oni laboras sin antaŭen al la tutan tempon vivi kun homaj pensoj, perceptoj kaj vidpunktoj kaj konduto, oni ricevas la certecon, ke oni la tutan tempon estas sur la ondolongo kun la providenco.
 
-Tio estas esti unuo kun la patro, kaj tio reale estas stadio, kiun oni povas atingi.
-
-En tiu stadio mi vivas kaj tial povas rakonti pri tion.
+Tio estas esti unuo kun la patro, kaj tio reale estas stadio, kiun oni povas atingi. En tiu stadio mi vivas kaj tial povas rakonti pri tion.
 
 Ĉiuj, kiuj kondukis la homojn kaj ricevis la kosmajn informojn, estis en tiu stadio, kie ili povis veni sur tiu ondolongo.
 
@@ -243,9 +241,7 @@ Per kosma lumeto temas pri veni en la ondolongo kun la elektraj fortoj.
 
 Tio ankaŭ okazas dum fuŝkontaktoj, kie la homoj interbatalas kaj riproĉas.
 
-La normala estas, ke la objektoj estas en harmonio, sed dum bruteco,
-
-perforto kaj mortigo temas pri fuŝkontaktoj.
+La normala estas, ke la objektoj estas en harmonio, sed dum bruteco, perforto kaj mortigo temas pri fuŝkontaktoj.
 
 De la praktiko kun elektro ni scias, kiel tio ŝprucas kaj siblas dum fuŝkontaktoj, kie la lumo malaperas, kaj precize la same okazas per du homoj kiuj kverelas kaj damaĝas unu la alian.
 
@@ -255,11 +251,7 @@ Kie tiam estas la simpatio de amo?
 
 Oni povas lerni multon per studo de la Kristoprincipo kaj la kristnaska evangelio, kaj la dia estas, ke tio nun regas la homojn dum parto de la jaro.
 
-La homoj fakte ne scias kial, sed ĉiuj estas ĝojaj.
-
-Oni beligas kaj ornamas kaj invitas homojn al siaj hejmon kaj havas agrablajn kunestadojn.
-
-Oni donas donacojn kaj opinias havi feliĉan tempon.
+La homoj fakte ne scias kial, sed ĉiuj estas ĝojaj. Oni beligas kaj ornamas kaj invitas homojn al siaj hejmon kaj havas agrablajn kunestadojn. Oni donas donacojn kaj opinias havi feliĉan tempon.
 
 Tio estis tradicio baldaŭ tra 2000 jaroj, kaj la plej multaj maturaj homoj havas lumajn memorojn de la infaneco, kiu markas ilin dum la tuta vivo.
 
