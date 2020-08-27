@@ -323,11 +323,11 @@ La kaŭzo estas, ke ĝi esprimas la vivon mem, Tio estas tuta malkaŝo de la pri
 
 Sur la kruco Kristo demonstris la kulminon de amo, kiu estas la modelo por tiu Kristinfano, kiun ni havas en nia propra konscio.
 
-La besta, kiu diras: "Vi absolute ne toleri tion aŭ tion de aliaj", estas nia plej grava malamiko.
+La besta, kiu diras: "Vi absolute ne toleri tion aŭ tion de aliaj", estas nia plej grava malamiko. Tio devigas la homon resti en la ŝtalo, en la malpuraĵo kaj la mallumo.
 
-Tio devigas la homon resti en la ŝtalo, en la malpuraĵo kaj la mallumo.
+La sola, kiu povas liberigi la homon kaj konduki ĝin el la ŝtalo kaj en la freŝa kaj klara aero kun la blua ĉielo kun lumo kaj varmo, ĝuste estas tio: "Preferinde doni anstataŭ preni". 
 
-La sola, kiu povas liberigi la homon kaj konduki ĝin el la ŝtalo kaj en la freŝa kaj klara aero kun la blua ĉielo kun lumo kaj varmo, ĝuste estas tio: "Preferinde doni anstataŭ preni". De tio ĉi la kristoprincipo kreskas, kaj la besta malgrandiĝas kaj malaperas.
+De tio ĉi la kristoprincipo kreskas, kaj la besta malgrandiĝas kaj malaperas.
 
 De tiu mallumo leviĝas la perfekta homo, kiu estas la plenumo de la plano de Dio por la homo: La homo en la bildo de Dio kaj simile al li!" 
 
@@ -349,8 +349,6 @@ Post tio oni komencas adiaŭi la fizikajn enkarniĝojn, esti preta kun tiu peza 
 
 Se oni volas krei ion, ekzemple artaĵon, tio okazas laŭ la ordono de la penso sen, ke oni bezonas helpon.
 
-Oni komencas esti matura homo.
-
 Oni estas en mondo, kie la materio obeas la penson, oni komencas esti matura homo en la vivo mem kaj vivi la realan perfektan vivon.
 
 17. La travivado de la proksimeco de Dio. La principo de la kristnasko.
@@ -371,11 +369,7 @@ Ni ne povas ekzisti sen Dio, kiu uzas ĉiuj vivaj estuloj kiel sia parolilo aŭ 
 
 Do la demando estas kia organo oni volas esti por Dio, ĉu oni volas esti ekzekutisto kaj tiu, kiu svingas la skurĝon, aŭ tiu, kiu sanigas la vundojn, karesas kaj benas?
 
-La homoj venis tiom multe, ke ili verŝajne ĉiuj preferas beni la aliajn.
-
-kaj tiu benon oni radios unu al la alia per karesaj okuloj, varmaj manpremon, donacoj ktp.
-
-Tiu estas la principo de la Kristnasko.
+La homoj venis tiom multe, ke ili verŝajne ĉiuj preferas beni la aliajn. kaj tiu benon oni radios unu al la alia per karesaj okuloj, varmaj manpremon, donacoj ktp. Tiu estas la principo de la Kristnasko. 
 
 La etoso de la kristnasko estas la atmosfero de la nova mondkulturo, kiun la homoj komencas senti, kiel la marodoro proksime la maro.
 
