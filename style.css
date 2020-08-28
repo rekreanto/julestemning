@@ -37,21 +37,21 @@ body {
 .eo:focus { background-color: hsla(0,0%,95%,1); }
 
 .da:before {
-  content: counter(progress);
-  counter-increment: progress;
+  content: '[' counter(progress) ']';
   padding-right: 1rem;
   color: hsla(0,0%,0%,0.3);
   font-weight: bold;
 }
 
 .eo:before {
-  content: counter(progress);
+  content: '[' counter(progress) ']';
+  counter-increment: progress;
   padding-right: 1rem;
   color: hsla(0,0%,0%,0.3);
   font-weight: bold;
 }
 .eo2:before {
-  content: counter(progress);
+  content: '[' counter(progress) ']';
   padding-right: 1rem;
   color: hsla(0,0%,0%,0.3);
   font-weight: bold;
@@ -72,3 +72,30 @@ body {
 .Toolbar button {
   text-transform: uppercase;
 }
+
+
+
+body[data-state=reading] {
+
+}
+body[data-state=reading] .da { display: none; }
+body[data-state=reading] .eo2 { display: none; }
+body[data-state=reading] .da-eo { display: inline; }
+
+body[data-state=reading] .section-title--da { display: none; }
+body[data-state=reading] .section-title--eo2 { display: none; }
+
+
+body[data-state=reading] div.sentence.eo { 
+  display: inline;}
+
+
+body[data-state=reading] .da-eo[data-state="active"] { display: block; }
+body[data-state=reading] .da-eo[data-state="active"] .da { display: block; }
+body[data-state=reading] .da-eo[data-state="active"] .eo { display: block; }
+body[data-state=reading] .da-eo[data-state="active"] .eo2 { display: block; }
+
+
+body[data-state=reading] .da-eo[data-state="active"] .section-title--da { display: block; }
+body[data-state=reading] .da-eo[data-state="active"] .section-title--eo { display: block; }
+body[data-state=reading] .da-eo[data-state="active"] .section-title--eo2 { display: block; }

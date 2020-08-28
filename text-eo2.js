@@ -299,9 +299,7 @@ Ni evoluas la humanecon per niaj eraroj, kiuj portas al ni suferojn.
 
 La sufero estas sonorilo, kiu sonoras, kiam estas danĝero, kaj ju pli ni malproksimiĝas de la natura, des pli la sufero kreskas, kaj tial ni revenos.
 
-Kvankam oni ne tute povos esti liberigita por lerni koni la mallumajn kontrastojn, neniu homo iam ajn estos perdita, eterna perdiĝo ne ekzistas.
-
-Ĉiuj estas sur la vojo kaj en la plej bona prizorgo de Dio.
+Kvankam oni ne tute povos esti liberigita por lerni koni la mallumajn kontrastojn, neniu homo iam ajn estos perdita, eterna perdiĝo ne ekzistas. Ĉiuj estas sur la vojo kaj en la plej bona prizorgo de Dio.
 
 14. Se vi faras la bonon, vi libere povas vidi supren.
 

@@ -76,19 +76,19 @@ sections.da.forEach(({number,title,sentences},i)=>{
   const tcontent = getItem(tkey, sections.eo[i].title);
   html.push('<div class = "da-eo">')
     html.push( `
-    <h2 class="section-title">
+    <h2 class="section-title section-title--da">
     ${sections.eo[i].number}. 
     <span class="sentence da">${title}</span>
     </h2>\n
   `);
     html.push( `
-      <h2 class="section-title ">
+      <h2 class="section-title section-title--eo">
       ${sections.eo[i].number}. 
       <span class="sentence eo" data-id="${tkey}" >${tcontent}</span>
       </h2>\n
     `);
     html.push( `
-    <h2 class="section-title">
+    <h2 class="section-title section-title--eo2">
     ${sections.eo[i].number}. 
     <span class="sentence eo2" >${sections.eo2[i]?sections.eo2[i].title:''}</span>
     </h2>\n
@@ -125,12 +125,12 @@ window.addEventListener('DOMContentLoaded',()=>{
         counter++;
         e.dataset.counter = counter;
         e.contentEditable=true;
-        e.addEventListener( 'blur', evt => {
+/*         e.addEventListener( 'blur', evt => {
           evt.target.textContent = niceQuotes(evt.target.textContent);
           const key = evt.target.dataset.id;
           const content = evt.target.textContent;
           localStorage.setItem(key, content);
-        });
+        }); */
         e.addEventListener( 'input', evt => {
           update(evt.target);
           } 
@@ -140,6 +140,7 @@ window.addEventListener('DOMContentLoaded',()=>{
       document.querySelectorAll('.da-eo').forEach(elm=>{
         const eo  = elm.querySelector('.eo' );
         const eo2 = elm.querySelector('.eo2');
+
         eo2.addEventListener('click', _e => {
           if(eo.dataset.empty=="true"){
             console.log(eo.textContent);
@@ -149,6 +150,12 @@ window.addEventListener('DOMContentLoaded',()=>{
             console.log("Please erase translation before copying.")
           }
         });
+
+        /* INIT */ 
+        elm.dataset.state='idle';  
+        eo.addEventListener('focus', e=>{ elm.dataset.state='active'; });
+        eo.addEventListener('blur' , e=>{ elm.dataset.state='idle'; });
+
       });
 
     document.getElementById('MAKE_JSON').addEventListener('click',_e=>{
