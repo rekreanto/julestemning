@@ -2,7 +2,7 @@
   box-sizing: border-box;
 }
 body {
-  line-height: 1.5em;
+  line-height: 2em;
   background-color: hsl(0,0%,0%);
   background-color: hsl(0,0%,92%);
 
@@ -21,7 +21,7 @@ body {
 }
 
 .sentence {
-  padding: 1rem;
+  padding: 1rem 0.5rem;
   margin: 0rem;  
 }
 .sentence[data-empty="true"] {
@@ -30,7 +30,7 @@ body {
 .sentence.da { background-color: hsla(210, 50%, 50%,0.12); }
 .sentence.da {            color: hsla(0,50%,30%,0.8); }
 
-.sentence.eo { background-color: hsla(0,0%,0%,0); }
+.sentence.eo { /* background-color: hsla(0,0%,0%,0);  */}
 .sentence.eo2 { background-color: hsla(0,0%,0%,0.05); }
 .sentence.eo2 {            color: hsla(0,0%,0%,0.50); }
 
@@ -46,20 +46,20 @@ body {
 .eo:before {
   content: '[' counter(progress) ']';
   counter-increment: progress;
-  padding-right: 1rem;
+  padding-right: 0.5rem;
   color: hsla(0,0%,0%,0.3);
   font-weight: bold;
 }
 .eo2:before {
   content: '[' counter(progress) ']';
-  padding-right: 1rem;
+  padding-right: 0.5rem;
   color: hsla(0,0%,0%,0.3);
   font-weight: bold;
 }
 
 .da-eo {
-  margin: 2rem;
-  background-color: hsla(0,0%,0%,0.12);  
+  margin: 2rem 0;
+  /* background-color: hsla(0,0%,0%,0.12);  */ 
 }
 
 
@@ -80,7 +80,8 @@ body[data-state=reading] {
 }
 body[data-state=reading] .da { display: none; }
 body[data-state=reading] .eo2 { display: none; }
-body[data-state=reading] .da-eo { display: inline; }
+
+body[data-state=reading] .da-eo { display: inline/* -block */; padding: 0.8rem 0.2rem; cursor: text }
 
 body[data-state=reading] .section-title--da { display: none; }
 body[data-state=reading] .section-title--eo2 { display: none; }
@@ -90,10 +91,14 @@ body[data-state=reading] div.sentence.eo {
   display: inline;}
 
 
-body[data-state=reading] .da-eo[data-state="active"] { display: block; }
+body[data-state=reading] .da-eo[data-state="active"] { display: block;  padding: 0;}
 body[data-state=reading] .da-eo[data-state="active"] .da { display: block; }
-body[data-state=reading] .da-eo[data-state="active"] .eo { display: block; }
+body[data-state=reading] .da-eo[data-state="active"] .eo { display: block; cursor: auto;}
 body[data-state=reading] .da-eo[data-state="active"] .eo2 { display: block; }
+
+body[data-state=reading] .da-eo[data-state="active"] h2 .da { display: inline-block; cursor: auto;}
+body[data-state=reading] .da-eo[data-state="active"] h2 .eo { display: inline-block; cursor: auto;}
+body[data-state=reading] .da-eo[data-state="active"] h2 .eo2 { display: inline-block; cursor: auto;}
 
 
 body[data-state=reading] .da-eo[data-state="active"] .section-title--da { display: block; }
