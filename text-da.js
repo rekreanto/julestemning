@@ -376,4 +376,6 @@ Båndafskrift bearbejdet af Ole Therkelsen.
 
 Bearbejdelsen godkendt af rådet.
 
-Bragt første gang i Kosmos nr. 12, 1992.`;
+Bragt første gang i Kosmos nr. 12, 1992.
+
+Oversat af ...`;
