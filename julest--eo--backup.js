@@ -183,7 +183,7 @@ const fileStorage = {
   "[section,17,sentence,8]": "La homoj estas tiel longe atingintaj, ke ili verŝajne ĉiuj deziras beni, kaj tiun benon oni radias unu al la alia per amaj okuloj, varmaj manpremoj, donacoj ktp, jen la kristnaska principo.",
   "[section,17,sentence,9]": "La etoso de la kristnasko estas la etoso de la nova mondkulturo, kiun la homoj komencas senteti, kiel maran aeron proksime al la maro.",
   "[section,17,sentence,10]": "Ju pli oni subtenas sian propran kreskadon en ĉi tiu kampo, des pli rapide la homaro finos  pri la militado kaj ĉio malluma, kaj per tio oni spertos la veran pacon en sia propra interno kaj sentos sin unu kun Dio.",
-  "[section,18,title]": "",
+  "[section,18,title]": "&nbsp;",
   "[section,18,sentence,0]": "La artikolo baziĝas sur  prelego de Martinus registrita en 1960-12-19.",
   "[section,18,sentence,1]": "Prilaboris la registraĵon Ole Therkelsen.",
   "[section,18,sentence,2]": "La prilaboraĵo estas aprobita de la konsilio de Martinus-Instituto.",
