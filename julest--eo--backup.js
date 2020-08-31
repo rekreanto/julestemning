@@ -1,4 +1,4 @@
-{
+const fileStorage = {
   "[section,0,title]": "Kristnaska etoso",
   "[section,0,sentence,0]": "de Martinus",
   "[section,1,title]": "Pli feliĉe estas doni, ol preni",

@@ -64,7 +64,8 @@ const sections = {
 const getItem = (key,def='') => {
   const local = localStorage.getItem(key);
   if(!local){
-    localStorage.setItem(key, niceQuotes(def));
+    console.log(fileStorage[key])
+    localStorage.setItem(key, fileStorage[key]||niceQuotes(def));
     return def;
   }
   return local;
